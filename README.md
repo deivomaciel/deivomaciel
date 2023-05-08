@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header"/>
 
-## Olá! Eu sou Deivide Maciel, Front-End developer
+<div align="center">
+  <h1>Olá! Eu sou Deivide Maciel, Front-End developer</h1>
+</div>
 
 <div align="center">
   <a href="https://github.com/deivomaciel">
