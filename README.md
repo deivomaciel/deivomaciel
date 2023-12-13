@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header"/>
 
 <div align="center">
-  <h1>Olá! Eu sou Deivide Maciel, Front-End developer</h1>
+  <h1>Olá! Eu sou Deivide Maciel, desenvolvedor de software</h1>
 </div>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
