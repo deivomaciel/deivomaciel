@@ -1,21 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=120&section=header"/>
 
-<div align="center">
-  <h1>Olá! Eu sou Deivide Maciel, desenvolvedor de software.</h1>
-</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next](https://img.shields.io/badge/NextJS-white?style=for-the-badge&logo=next.js&logoColor=black)&nbsp;
-![Node](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=node.js&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/deivide-maciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="25" height="25" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1ABC9C&random=false&width=547&height=54&lines=Hello!+I'm+Deivide+Maciel%2C+software+engineer." alt="Typing SVG" /></a>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Languages and Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next,nodejs,tailwind,firebase,python,mysql,postgres,mongodb,git,github&perline=7)](https://skillicons.dev)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" /> Let's connect!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=1abc9c&color:FFF)](https://www.linkedin.com/in/deivide-maciel)
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=120&section=footer"/>
